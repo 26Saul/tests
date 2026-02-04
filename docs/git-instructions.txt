@@ -38,5 +38,9 @@
 10,.-) Pasar todo al stage.
     git add .
 
-11,.-) Crear commit 
+11,.-) Crear commit.
     git commit -m "feat Header Component"
+
+12,.-) Subir los cambios.
+    git push origin main
+

@@ -11,7 +11,8 @@ function Header(){
                     <li>Reclamaciones</li>
                 </ul>
             </div>
-            <div className="header-hamburger"></div>
+            <div className="header-hamburger">
+            </div>
         </div>
         
     )

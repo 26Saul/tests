@@ -44,3 +44,11 @@
 12,.-) Subir los cambios.
     git push origin main
 
+---------------------------------------------------------------------------------------
+
+13,.-) Para Actualizar los datos nuevos.
+    git pull origin main
+    
+14,.-) Puede ocurrir que haya cambios locales que no se han subido al repositorio.
+    git stash
+---------------------------------------------------------------------------------------
